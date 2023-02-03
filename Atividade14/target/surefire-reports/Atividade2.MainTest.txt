@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+Test set: Atividade2.MainTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.007 sec <<< FAILURE!
+Atividade2.MainTest.testVoto()  Time elapsed: 0.007 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: The test case is a prototype.
+	at org.junit.jupiter.api.AssertionUtils.fail(AssertionUtils.java:39)
+	at org.junit.jupiter.api.Assertions.fail(Assertions.java:109)
+	at Atividade2.MainTest.testVoto(MainTest.java:54)
+
